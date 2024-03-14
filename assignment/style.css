@@ -1,8 +1,21 @@
 header {
-    background-color: aquamarine;
+    background-color: aquamarine; 
+}
+
+img {
+  margin: auto;
+  display: block;
 }
 
 h2 {
-    color: azure;
+    color: steelblue;
     background-color: aquamarine;
+    text-align: center;
+}
+
+h3 {
+    background-color: aquamarine;
+    color: steelblue;
+    text-align: center;
+    
 }
